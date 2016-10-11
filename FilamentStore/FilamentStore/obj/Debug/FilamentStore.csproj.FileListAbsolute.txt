@@ -1,0 +1,11 @@
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\FilamentStore.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\FilamentStore.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\FilamentStore.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\MetroFramework.Design.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\MetroFramework.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.Properties.Resources.resources
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.csproj.GenerateResource.Cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.pdb
