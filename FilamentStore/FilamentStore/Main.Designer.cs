@@ -48,41 +48,49 @@
             // metroTile2
             // 
             this.metroTile2.ActiveControl = null;
+            this.metroTile2.BackColor = System.Drawing.Color.OrangeRed;
             this.metroTile2.Location = new System.Drawing.Point(202, 176);
             this.metroTile2.Name = "metroTile2";
             this.metroTile2.Size = new System.Drawing.Size(159, 143);
             this.metroTile2.TabIndex = 1;
             this.metroTile2.Text = "Auftrag";
+            this.metroTile2.UseCustomBackColor = true;
             this.metroTile2.UseSelectable = true;
             // 
             // metroTile3
             // 
             this.metroTile3.ActiveControl = null;
+            this.metroTile3.BackColor = System.Drawing.Color.ForestGreen;
             this.metroTile3.Location = new System.Drawing.Point(367, 176);
             this.metroTile3.Name = "metroTile3";
             this.metroTile3.Size = new System.Drawing.Size(159, 143);
             this.metroTile3.TabIndex = 2;
             this.metroTile3.Text = "Lager";
+            this.metroTile3.UseCustomBackColor = true;
             this.metroTile3.UseSelectable = true;
             // 
             // metroTile4
             // 
             this.metroTile4.ActiveControl = null;
+            this.metroTile4.BackColor = System.Drawing.Color.Goldenrod;
             this.metroTile4.Location = new System.Drawing.Point(532, 176);
             this.metroTile4.Name = "metroTile4";
             this.metroTile4.Size = new System.Drawing.Size(159, 143);
             this.metroTile4.TabIndex = 3;
             this.metroTile4.Text = "Report";
+            this.metroTile4.UseCustomBackColor = true;
             this.metroTile4.UseSelectable = true;
             // 
             // metroTile5
             // 
             this.metroTile5.ActiveControl = null;
+            this.metroTile5.BackColor = System.Drawing.Color.LightSeaGreen;
             this.metroTile5.Location = new System.Drawing.Point(697, 176);
             this.metroTile5.Name = "metroTile5";
             this.metroTile5.Size = new System.Drawing.Size(159, 143);
             this.metroTile5.TabIndex = 4;
-            this.metroTile5.Text = "Einstellung";
+            this.metroTile5.Text = "Einstellungen";
+            this.metroTile5.UseCustomBackColor = true;
             this.metroTile5.UseSelectable = true;
             // 
             // Main
@@ -97,7 +105,9 @@
             this.Controls.Add(this.metroTile1);
             this.Name = "Main";
             this.Resizable = false;
+            this.ShadowType = MetroFramework.Forms.MetroFormShadowType.AeroShadow;
             this.Text = "Startseite";
+            this.TextAlign = MetroFramework.Forms.MetroFormTextAlign.Center;
             this.ResumeLayout(false);
 
         }
