@@ -9,3 +9,4 @@ C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\Filamen
 C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.csproj.GenerateResource.Cache
 C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.exe
 C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\FilamentStoreCSharp\FilamentStore\FilamentStore\obj\Debug\FilamentStore.Main.resources
